@@ -1,6 +1,6 @@
 ---
 title: "Group Project Step 1"
-author: "Amelia Hammer"
+author: "Amelia Hammer, Shreya Reddy"
 date: "2025-04-17"
 output: pdf_document
 ---
