@@ -70,9 +70,9 @@ The deadline for this step is Friday, April 25.
   
   **Date of Publication**: UPDATED 6 YEARS AGO
   
-  **Publication Venue**: *Add your answers here*
+  **Publication Venue**: Kaggle
   
-  **Retrieval Date**: *Add your answers here*
+  **Retrieval Date**: 4/17/25
  
   **Link**: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
