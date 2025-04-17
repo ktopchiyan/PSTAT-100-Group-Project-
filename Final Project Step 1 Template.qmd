@@ -56,10 +56,10 @@ The deadline for this step is Friday, April 25.
 
 | Name                 | Responsibilities                                           |
 |-----------------------|-----------------------------------------------------------|
- |Amelia  ||             Submits files for team and keeps the github updated 
+ |Amelia  ||             Submits files for team and keeps the Github updated 
  |Shreya  ||             Organizing the data and keeping members on track 
  |Amelie  ||             Project planning 
- |Katrina ||             Keeps track of dealines and timelines 
+ |Katrina ||             Keeps track of deadlines and timelines 
  
 
 # Data Information
