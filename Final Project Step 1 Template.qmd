@@ -43,7 +43,7 @@ The deadline for this step is Friday, April 25.
 <span style="color: blue;"> **GROUP NAME **</span> 
 </div>
 - Amelia Hammer    (503895-5)
-- STUDENT 2    (NetID 2)
+- Katrina Topchiyan    (A069255)
 - STUDENT 3    (NetID 3)
 - STUDENT 4    (NETID 4)
 :::
