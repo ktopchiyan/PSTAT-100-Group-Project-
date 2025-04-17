@@ -42,9 +42,10 @@ The deadline for this step is Friday, April 25.
 <div style="text-align: center">
 <span style="color: blue;"> **GROUP NAME **</span> 
 </div>
-- STUDENT 1    (NetID 1)
+- Amelia Hammer    (503895-5)
 - STUDENT 2    (NetID 2)
 - STUDENT 3    (NetID 3)
+- STUDENT 4    (NETID 4)
 :::
 
  
@@ -55,17 +56,17 @@ The deadline for this step is Friday, April 25.
 
 | Name                 | Responsibilities                                           |
 |-----------------------|-----------------------------------------------------------|
- |STUDENT 1 ||
- |STUDENT 2 ||
- |STUDENT 3 ||
- |STUDENT 4 ||
- |STUDENT 5 ||
+ |Amelia  ||             Submits files for team and keeps the github updated 
+ |Shreya  ||             Organizing the data and keeping members on track 
+ |Amelie  ||             Project planning 
+ |Katrina ||             Keeps track of dealines and timelines 
+ 
 
 # Data Information
 
-  **Data Name/Title**: *Add your answers here*
+  **Data Name/Title**: Car Price Prediction Multiple Linear Regression
   
-  **Author/Owner**: *Add your answers here*
+  **Author/Owner**: MANISH KUMAR
   
   **Date of Publication**: *Add your answers here*
   
